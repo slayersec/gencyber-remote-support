@@ -87,8 +87,8 @@ configure_quick_help() {
 check_for_root
 check_distro
 install_tools
-generate_password
-install_teamviewer
-display_connect_info
-configure_quick_help
+#generate_password
+#install_teamviewer
+#display_connect_info
+#configure_quick_help
 
